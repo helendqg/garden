@@ -1,0 +1,25 @@
+body{
+	font-family:Arial;
+}
+ div{
+	font-color:#333BFF;
+}
+h1{
+	color:#4733FF;
+	font-size:80px;
+}
+h2{
+	color:#33BBFF;
+	font-size:40px;
+}
+h3{
+	color:#33BBFF;
+	font-size:40px;
+}
+p{
+	color:#5433FF;
+	font-size:20px
+}
+.main_supporting{
+	background-color:#33E7FF;
+}
